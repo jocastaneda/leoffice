@@ -1,0 +1,14 @@
+uuid: 9bad79d9-0f45-418e-9af4-6a12f224fdf5
+name: leoffice
+mail: jose.castaneda@pantheon.io
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
